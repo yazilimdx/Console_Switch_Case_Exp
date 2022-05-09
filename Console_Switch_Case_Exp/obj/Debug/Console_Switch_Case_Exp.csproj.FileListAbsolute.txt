@@ -1,0 +1,7 @@
+C:\Users\HP DX\source\repos\Console_Switch_Case_Exp\Console_Switch_Case_Exp\bin\Debug\Console_Switch_Case_Exp.exe.config
+C:\Users\HP DX\source\repos\Console_Switch_Case_Exp\Console_Switch_Case_Exp\bin\Debug\Console_Switch_Case_Exp.exe
+C:\Users\HP DX\source\repos\Console_Switch_Case_Exp\Console_Switch_Case_Exp\bin\Debug\Console_Switch_Case_Exp.pdb
+C:\Users\HP DX\source\repos\Console_Switch_Case_Exp\Console_Switch_Case_Exp\obj\Debug\Console_Switch_Case_Exp.csprojAssemblyReference.cache
+C:\Users\HP DX\source\repos\Console_Switch_Case_Exp\Console_Switch_Case_Exp\obj\Debug\Console_Switch_Case_Exp.csproj.CoreCompileInputs.cache
+C:\Users\HP DX\source\repos\Console_Switch_Case_Exp\Console_Switch_Case_Exp\obj\Debug\Console_Switch_Case_Exp.exe
+C:\Users\HP DX\source\repos\Console_Switch_Case_Exp\Console_Switch_Case_Exp\obj\Debug\Console_Switch_Case_Exp.pdb
